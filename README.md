@@ -1,6 +1,8 @@
 # Curriculum Learning for Crowd Counting - Is it worthy?
 PyTorch Code implementing the paper "Curriculum Learning for Crowd Counting - Is it worthy?".
 
+![alt text](https://github.com/muasifk/CLCC/blob/main/clcc.jpg?raw=true)
+
 ## Getting Started
 The list of files and their description is explained as follows:
 
@@ -19,7 +21,7 @@ The list of files and their description is explained as follows:
 - CrowdDataset.py:  Python class to create dataset.
 - cc_utils.py: Utilities functions e.g., display image, prediction, etc.
 
-### Files used in Curriculum Learning:
+### Files (used in Curriculum Learning)
 - cc_cl_trainer:  trainer function using Curriculum Learning.
 - get_pacing_function:  function to chose pacing function.
 - sort_data:  scoring function to sort data by difficulty.
