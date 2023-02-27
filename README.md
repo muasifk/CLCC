@@ -1,7 +1,7 @@
 
 <style>
-title { color: blue; font-weight:700; }
-bullet { color: blue }
+title {color: blue}
+bullet {color: blue}
 </style>
 
 <title> New title text</title>
