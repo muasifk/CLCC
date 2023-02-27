@@ -2,9 +2,7 @@
 
 # Curriculum Learning for Crowd Counting - Is it worthy?
 
-✍️ PyTorch implementation (official code) of the paper "**Curriculum Learning for Crowd Counting - Is it worthy?**".
-
-> M. A. Khan, H. Menouar, R. Hamila, "Curriculum Learning for Crowd Counting - Is it worthy?", submitted to IEEE-TAI.
+✍️ PyTorch implementation (official code) of the paper "**M. A. Khan, H. Menouar, R. Hamila, "Curriculum Learning for Crowd Counting - Is it worthy?", 2023"**".
 
 
 ![alt text](https://github.com/muasifk/CLCC/blob/main/clcc.jpg?raw=true)
