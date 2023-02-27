@@ -1,10 +1,9 @@
 
 <style>
-title {color: blue}
-bullet {color: blue}
+title{color:Blue !important;}
 </style>
 
-<title> New title text</title>
+<title> New title text </title>
 
 
 
