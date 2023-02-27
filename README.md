@@ -1,6 +1,7 @@
 # Curriculum Learning for Crowd Counting - Is it worthy?
 ✍️ PyTorch Code implementing the paper **Curriculum Learning for Crowd Counting - Is it worthy?**.
 
+
 ![alt text](https://github.com/muasifk/CLCC/blob/main/clcc.jpg?raw=true)
 
 ## Getting Started
@@ -35,4 +36,4 @@ You can download datasets from the following links.
 - Muhammad Asif Khan
 
 ## License
-This project is licensed under the GNU general public License - see the LICENSE.md file for details
+This project is licensed under the GNU general public License.
