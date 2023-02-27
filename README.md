@@ -1,5 +1,5 @@
 # Curriculum Learning for Crowd Counting - Is it worthy?
-✍️ PyTorch Code implementing the paper "**Curriculum Learning for Crowd Counting - Is it worthy?**".
+✍️ PyTorch implementation (official code) of the paper "**Curriculum Learning for Crowd Counting - Is it worthy?**".
 
 
 ![alt text](https://github.com/muasifk/CLCC/blob/main/clcc.jpg?raw=true)
