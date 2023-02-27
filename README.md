@@ -1,3 +1,13 @@
+
+<style>
+title { color: blue; font-weight:700; }
+bullet { color: blue }
+</style>
+
+<title> New title text</title>
+
+
+
 # Curriculum Learning for Crowd Counting - Is it worthy?
 ✍️ PyTorch implementation (official code) of the paper "**Curriculum Learning for Crowd Counting - Is it worthy?**".
 
@@ -7,13 +17,14 @@
 ## Getting Started
 The list of files and their description is explained as follows:
 
-### 💼 Directories
+### 📂 Directories
 - checkpoints: contains checkpoints crated during training
 - figures: contained figures e.g., predictions, pacing functions etc.
 - models: contains complete models.
 - weights:  contains model weights as dictionaries.
 
 ### 💻 Files (used in standard training)
+- ![#f03c15](cc_cl.ipynb:)
 - cc_cl.ipynb:  The main notebook to train and test models. You can run all experiments using this notebook while changing parameters such as dataset, crowd model, training iterations etc.
 - cc_load_data.py:  python function to load dataset.
 - cc_trainer: trainer function using standard training.
@@ -33,7 +44,7 @@ You can download datasets from the following links.
 
 
 ## ⭐️ Authors
-- Muhammad Asif Khan
+- Muhammad Asif Khan  📧 asifk@ieee.org
 
 ## License
 This project is licensed under the GNU general public License.
