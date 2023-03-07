@@ -15,8 +15,8 @@ The list of files and their description is explained as follows:
 
 - checkpoints: contains checkpoints crated during training
 - figures: contained figures e.g., predictions, pacing functions etc.
-- models: contains complete models.
-- weights:  contains model weights as dictionaries.
+- networks: contains PyTorch implementation of crowd models.
+
 
 ### 💻 Files (used in standard training)
 
